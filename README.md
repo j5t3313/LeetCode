@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/j5t3313/LeetCode/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/j5t3313/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/j5t3313/LeetCode/tree/master/0595-big-countries) |
+| [0603-consecutive-available-seats](https://github.com/j5t3313/LeetCode/tree/master/0603-consecutive-available-seats) |
 | [0620-not-boring-movies](https://github.com/j5t3313/LeetCode/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/j5t3313/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1180-game-play-analysis-ii](https://github.com/j5t3313/LeetCode/tree/master/1180-game-play-analysis-ii) |
