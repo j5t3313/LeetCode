@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0603-consecutive-available-seats](https://github.com/j5t3313/LeetCode/tree/master/0603-consecutive-available-seats) |
 | [0613-shortest-distance-in-a-line](https://github.com/j5t3313/LeetCode/tree/master/0613-shortest-distance-in-a-line) |
 | [0620-not-boring-movies](https://github.com/j5t3313/LeetCode/tree/master/0620-not-boring-movies) |
+| [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/j5t3313/LeetCode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1153-product-sales-analysis-i](https://github.com/j5t3313/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1162-project-employees-ii](https://github.com/j5t3313/LeetCode/tree/master/1162-project-employees-ii) |
 | [1180-game-play-analysis-ii](https://github.com/j5t3313/LeetCode/tree/master/1180-game-play-analysis-ii) |
