@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/j5t3313/LeetCode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1153-product-sales-analysis-i](https://github.com/j5t3313/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1154-product-sales-analysis-ii](https://github.com/j5t3313/LeetCode/tree/master/1154-product-sales-analysis-ii) |
+| [1161-project-employees-i](https://github.com/j5t3313/LeetCode/tree/master/1161-project-employees-i) |
 | [1162-project-employees-ii](https://github.com/j5t3313/LeetCode/tree/master/1162-project-employees-ii) |
 | [1180-game-play-analysis-ii](https://github.com/j5t3313/LeetCode/tree/master/1180-game-play-analysis-ii) |
 | [1258-article-views-i](https://github.com/j5t3313/LeetCode/tree/master/1258-article-views-i) |
