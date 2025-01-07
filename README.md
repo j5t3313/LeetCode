@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1172-sales-analysis-i](https://github.com/j5t3313/LeetCode/tree/master/1172-sales-analysis-i) |
 | [1173-sales-analysis-ii](https://github.com/j5t3313/LeetCode/tree/master/1173-sales-analysis-ii) |
 | [1180-game-play-analysis-ii](https://github.com/j5t3313/LeetCode/tree/master/1180-game-play-analysis-ii) |
+| [1215-reported-posts](https://github.com/j5t3313/LeetCode/tree/master/1215-reported-posts) |
 | [1258-article-views-i](https://github.com/j5t3313/LeetCode/tree/master/1258-article-views-i) |
 | [1317-monthly-transactions-i](https://github.com/j5t3313/LeetCode/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/j5t3313/LeetCode/tree/master/1338-queries-quality-and-percentage) |
