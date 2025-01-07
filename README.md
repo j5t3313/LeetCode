@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-project-employees-ii](https://github.com/j5t3313/LeetCode/tree/master/1162-project-employees-ii) |
 | [1172-sales-analysis-i](https://github.com/j5t3313/LeetCode/tree/master/1172-sales-analysis-i) |
 | [1173-sales-analysis-ii](https://github.com/j5t3313/LeetCode/tree/master/1173-sales-analysis-ii) |
+| [1174-sales-analysis-iii](https://github.com/j5t3313/LeetCode/tree/master/1174-sales-analysis-iii) |
 | [1180-game-play-analysis-ii](https://github.com/j5t3313/LeetCode/tree/master/1180-game-play-analysis-ii) |
 | [1215-reported-posts](https://github.com/j5t3313/LeetCode/tree/master/1215-reported-posts) |
 | [1258-article-views-i](https://github.com/j5t3313/LeetCode/tree/master/1258-article-views-i) |
