@@ -36,5 +36,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/j5t3313/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/j5t3313/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/j5t3313/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+| [1942-primary-department-for-each-employee](https://github.com/j5t3313/LeetCode/tree/master/1942-primary-department-for-each-employee) |
 | [2087-confirmation-rate](https://github.com/j5t3313/LeetCode/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
