@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-find-the-team-size](https://github.com/j5t3313/LeetCode/tree/master/1438-find-the-team-size) |
 | [1481-students-with-invalid-departments](https://github.com/j5t3313/LeetCode/tree/master/1481-students-with-invalid-departments) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/j5t3313/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1686-fix-product-name-format](https://github.com/j5t3313/LeetCode/tree/master/1686-fix-product-name-format) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/j5t3313/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/j5t3313/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/j5t3313/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
